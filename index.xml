@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piffey.net</title>
+    <link>https://piffey.net/</link>
+    <description>Recent content on piffey.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://piffey.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://piffey.net/about/</link>
+      <pubDate>Sun, 22 Nov 2020 12:28:22 -1000</pubDate>
+      
+      <guid>https://piffey.net/about/</guid>
+      <description>me Hello, I am Chad &amp;lsquo;Piffey&amp;rsquo; Anderson, a security researcher and photographer living and working in Seattle, Washington. Currently, I work at DomainTools on the research and development team. My cybersecurity work involves the analysis and creation of infrastructure data sets used in the distillation of data into threat intelligence for analysts and researchers around the world. I enjoy writing automation and tooling to further the success of security and research teams looking to analyze cybercriminal groups and nation state threat actors.</description>
+    </item>
+    
+  </channel>
+</rss>
