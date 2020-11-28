@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On photography on piffey.net</title>
+    <link>https://piffey.net/on-photography/</link>
+    <description>Recent content in On photography on piffey.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 10:45:15 -1000</lastBuildDate><atom:link href="https://piffey.net/on-photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photographic Printing as a Software Project</title>
+      <link>https://piffey.net/on-photography/printing-as-a-software-project/</link>
+      <pubDate>Fri, 27 Nov 2020 10:45:15 -1000</pubDate>
+      
+      <guid>https://piffey.net/on-photography/printing-as-a-software-project/</guid>
+      <description>I tend to throw everything I can at whatever I am in doing in the moment. On top of that, my role in security research is time sensitive and sometimes means that in the race against the clock to map malicious infrastructure or reverse engineer a piece of malware before it&amp;rsquo;s too late I have to drop everything I&amp;rsquo;m doing and unfortunately ignore my photography. For this reason, I can&amp;rsquo;t keep everything in my head anymore and have chosen to adopt the models that I already use successfully for software to manage different parts of my life.</description>
+    </item>
+    
+    <item>
+      <title>my archival system</title>
+      <link>https://piffey.net/on-photography/my-archival-system/</link>
+      <pubDate>Fri, 27 Nov 2020 09:50:40 -1000</pubDate>
+      
+      <guid>https://piffey.net/on-photography/my-archival-system/</guid>
+      <description>I put this definition of my system here in the hopes that anyone struggling to develop one can find some direction in it. I highly recommend playing around with what works for you and covers the technologies you are most comfortable with in your day-to-day usage. This method gave me the hybrid approach I sought, but your mileage may vary.
+ Over the years I&amp;rsquo;ve developed a hybrid approach to how I handle and deal with my archive of negatives.</description>
+    </item>
+    
+    <item>
+      <title>my process</title>
+      <link>https://piffey.net/on-photography/my-process/</link>
+      <pubDate>Thu, 26 Nov 2020 12:41:42 -1000</pubDate>
+      
+      <guid>https://piffey.net/on-photography/my-process/</guid>
+      <description>This is a common question when meeting new photographers both experienced and budding. I&amp;rsquo;ve decided to answer this question as thoroughly as possible here along with some of my thoughts around that thinking it will be useful to someone or perhaps just as an easy way to share with others when they ask. I intend to treat this as a bit of a living document as I continue to learn as a photographer and explore what my eye is drawn to in the world.</description>
+    </item>
+    
+  </channel>
+</rss>
