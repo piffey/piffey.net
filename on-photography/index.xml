@@ -6,7 +6,11 @@
     <description>Recent content in On photography on piffey.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 10:45:15 -1000</lastBuildDate><atom:link href="https://piffey.net/on-photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 10:45:15 -1000</lastBuildDate>
+    
+	<atom:link href="https://piffey.net/on-photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Photographic Printing as a Software Project</title>
       <link>https://piffey.net/on-photography/printing-as-a-software-project/</link>
