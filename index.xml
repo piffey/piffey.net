@@ -6,7 +6,7 @@
     <description>Recent content on piffey.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 12:28:22 -1000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://piffey.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,16 @@
       
       <guid>https://piffey.net/osint/analyzing-famous-photographs-winogrand/</guid>
       <description>In my photographic practice I tend to be much more interested in why a photograph is impactful due to its content or what makes the photograph more beautiful than the scene that was photographed. As a researcher, this changes and I am often using OSINT sources to derive details about a photograph. I try to determine locations based on the sun and shadows, distant ridge lines, the positioning of satellite dishes, and anything else that can give me a clue.</description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://piffey.net/links/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://piffey.net/links/</guid>
+      <description>analyzing famous photographs: garry winogrand
+A look at some of Garry Winogrand&amp;rsquo;s most famous photographs from an investigative perspective. Trying to find the exact place and time that these photographs were taken by analyzing the elements in them.</description>
     </item>
     
     <item>
