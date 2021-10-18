@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scal=1">
+  
+  
+  <title>piffey.net | on the eu proposal to force public domain registrations</title>
+  
+  <link rel="stylesheet" href="https://piffey.net/style.min.93cb521725ad33017d4937e6a5eb90d69346d62fa420bf5ec53966acdcfd1a87.css">
+  
+  <script async src="https://cdn.panelbear.com/analytics.js?site=3oXsNtVgNB1"></script>
+  <script>
+    window.panelbear = window.panlebear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+    panelbear('config', { site: '3oXsNtVgNB1' });
+  </script>
+</head>
+<body>
+        <div class="columns">
+            <div class="column is-one-fifth">
+            </div>
+            <div class="column is-three-fifths"><nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="https://piffey.net/">piffey.net</a>
+    <span class="navbar-item"> | </span>
+    <a class="navbar-item" href="https://instagram.com/papaindiafoxtrot">
+      <span class="icon">
+      <i class="fab fa-instagram"></i>
+      </span>
+    </a>
+    <a class="navbar-item" href="https://twitter.com/piffey">
+      <span class="icon">
+      <i class="fab fa-twitter"></i>
+      </span>
+    </a>
+    <a class="navbar-item" href="https://linkedin.com/in/piffey">
+      <span class="icon">
+      <i class="fab fa-linkedin"></i>
+      </span>
+    </a>
+    <a class="navbar-item" href="https://github.com/piffey">
+      <span class="icon">
+      <i class="fab fa-github"></i>
+      </span>
+    </a>
+  </div>
+</nav>
+<div class="section">
+<div class="container">
+  <span class="is-size-7">This is the website of Chad 'Piffey' Anderson. I am a cybersecurity researcher and photographer who enjoys writing. This page aims to be a curation of mixed writings on subjects I enjoy as well as a place to showcase my photography. You can find out more on my <a href=" https://piffey.net//about">about</a> page.</span>
+</div>
+</div>
+<div class="section">
+<div class="columns">
+    <div class="column">
+        <h1 class="title is-1"><a href="https://piffey.net/on-cybersecurity/on-eu-proposal-to-force-public-domain-registrations/">on the eu proposal to force public domain registrations</a></h5>
+        <div class="tile is-ancestor">
+            <div class="tile is-parent">
+                <div class="tile box is-child">
+                    <div class="content is-small">
+                        <p class="has-text-weight-bold">contents</p>
+                        <nav id="TableOfContents"></nav>
+                    </div>
+                </div>
+            </div>
+            <div class="tile is-parent">
+                <div class="tile box is-child">
+                    <div class="content is-small">
+                        <table>
+                            <thead>
+                                <td></td>
+                                <th>metadata</th>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                <th>published</th>
+                                <td>2020-10-13</td>
+                                </tr>
+                                <tr>
+                                <th>updated</th>
+                                <td>2021-10-18</td>
+                                </tr>
+                                <tr>
+                                <th>reading time</th>
+                                <td>6 minutes</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+        <p>For anyone working in cybersecurity, there is no surprise when I say that the European Union&rsquo;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (GDPR) of 2016 and the law&rsquo;s subsequent redaction of personally identifiable information (PII) from publicly queryable domain registrations has ended in the loss of easy wins when combating phishing, business email compromise (BEC), and other low-level cybercrime. The reason for this is that registration details, before redaction, often gave quick and simple ties to find large swaths of domain registrations tied to singular threat actor accounts. The information provided was likely never a real name or address, but the names and addresses threat actors chose for their registrations were frequently unique enough to pivot on to enumerate all of the malicious infrastructure tied to one individual or group.</p>
+<p>In the wake of our current <a href="https://threatpost.com/ransomware-volumes-record-highs-2021">worldwide ransomware epidemic</a> many cybsersecurity organizations have brought up removing GDPR redactions as a piece of the puzzle to stopping the less capable cybercrime groups. I don&rsquo;t argue that unredacted PII certainly made simple incident investigations quick and easy, but I also recognize that the data was frequently unreliable &ndash; I can&rsquo;t tell you how many times I came across a cluster of &ldquo;batman&rdquo; in the past &ndash; and that the much more dependable piece remains the post-redaction resurgence of <a href="https://www.domaintools.com/resources/blog/analyzing-network-infrastructure-as-composite-objects">composite objects</a> which relies on tracking related infrastructure coupled through tactics, techniques, and procedures (TTPs). That said, I do still feel that unredacted data would be better for the free and open Internet.</p>
+<p>In recent weeks, the European Union (EU) began drafting <a href="https://www.europarl.europa.eu/doceo/document/ITRE-PR-692602_EN.pdf">new legislation</a> that would back pedal on some of their previous GDPR stances. While there has been a lot of improper assessments of what the legislation would actually entail, the basics come down to the EU requiring that registrars get accurate and verifiable registration information for domain names. This wouldn&rsquo;t remove redactions, but would ensure that under the current provisions of <a href="https://gdpr-info.eu/art-23-gdpr/">Article 23</a> of GDPR that when PII is requested lawfully that the data given is accurate. A few of those lawful reasons for revealing registrant PII include such predictables as a matter of national security, defense, or criminal prosecution. Along with this announcement has come a lot of <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt">FUD</a> commentary that I&rsquo;d like to address below as I feel this is a potentially positive move for cybersecurity.</p>
+<hr>
+<h1 id="cybercriminals-will-just-find-other-ways">Cybercriminals Will Just Find Other Ways</h1>
+<p>The most common fallacy comes in saying cybercriminals will simply find other ways to register domains. This sounds identical to the argument that gun control would not reduce gun violence because then only criminals would have guns. Simply put the goal of any legislative approach is not to completely eliminate crime, but to make crime so expensive for the criminal that only certain tiers can operate effectively. In effect this reduces crime by limiting the number of safe harbors and increasing the amount of touch points for criminal actors.</p>
+<p>As an example, many say that threat actors would simply spin up other companies to hide behind before registratering domains. While true, this still provides a single pivot point to enumerate infrastructure from and also gives the additional physical world anchor in the required documentation necessary for registering a business. Additionally, many have said that cybercriminals would simply turn to non-EU based registrars which once again provides the defensive benefit of limiting the scope that current defenders have to monitor. In all cases forcing threat actors to specific actions gives defenders an upper hand.</p>
+<h1 id="makes-activism-and-whistleblowing-difficult">Makes Activism and Whistleblowing Difficult</h1>
+<p>The argument that this will make activism and whistleblowing difficult is by far the most ludicrous as if anything this will improve the safety for activists. If they are not currently using others&rsquo; leak sites and Tor to operate now this will force them to and improve their operational security. Activists should not be &ndash; and rarely ever have &ndash; registered and run infrastructure of their own. That would be dangerous and unwise given the plethora of paste sites, leak groups, and journalist sources available.</p>
+<p>Additionally, everything necessary for an alternative set of infrastructure not tied to ICANN exists such as blockchain-based domain name services in .bit and .bazaar. Content distribution problems have been solved by tools like IPFS. You can host content on Freenet, Tor, I2P, and a number of other anonymous content sources. Anonymous, end-to-end encrypted messaging is possible through Signal, Tox, and even straight OTR on XMPP. There is no reason that activists and whistleblowers should be touching the clear net if they are working with sensitive information.</p>
+<h1 id="reduces-privacy-of-users">Reduces Privacy of Users</h1>
+<p>The argument for privacy is one that holds. I would say that I support privacy in daily use of the Internet, particularly in the realm of transport. Often to protests I try and constantly move people to Signal. So why then do I feel that registrations need to be publicly available?</p>
+<p>The majority of people will never own a domain name in their lives similar to how the majority of people will never own their own land or home. Domain names are digital property and come with a host of responsibilities. A permissive SPF record and an open relay can wreak havoc for other parts of the Internet. Unpatched services can be leveraged for malicious intent with pre-baked exploits that anyone can run. Similarly, poor construction of gas and sewer lines on a property can lead to significant damage for surrounding properties. People should have to be responsible for the infrastructure they manage and should be contactable by anyone who notices an issue. For this reason, amongst many others, we have parcel finders in the United States where you can look up property ownership records for any plot of land to contact the owner. This should be mirrored in domain registrations so when a defender such as myself comes across a compromised WordPress instance or an open mail relay being abused we can contact the owner and assist with remediation.</p>
+<hr>
+<p>Your data should always remain private and end-to-end encryption should be universal, but the moment that you choose to participate in the infrastructure that is the underpining of the Internet and its security you are opting in to a system where you can be contacted for support around your digital properties. GDPR provides a number of provisions for still limiting the blanket collection and abuse of domain registration data that are more than effective enough of a barrier. Article 23 also provides for an auditable trail of when that domain registration data has been accessed for the public good.</p>
+
+        </div>
+    </div>
+</div>
+
+                </div></div>
+            <div class="column is-one-fifth">
+            </div>
+    </body>
+</html>

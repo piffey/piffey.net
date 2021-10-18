@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On cybersecurity on piffey.net</title>
+    <link>https://piffey.net/on-cybersecurity/</link>
+    <description>Recent content in On cybersecurity on piffey.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2020 15:49:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://piffey.net/on-cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>on the eu proposal to force public domain registrations</title>
+      <link>https://piffey.net/on-cybersecurity/on-eu-proposal-to-force-public-domain-registrations/</link>
+      <pubDate>Tue, 13 Oct 2020 15:49:00 -0700</pubDate>
+      
+      <guid>https://piffey.net/on-cybersecurity/on-eu-proposal-to-force-public-domain-registrations/</guid>
+      <description>For anyone working in cybersecurity, there is no surprise when I say that the European Union&amp;rsquo;s General Data Protection Regulation (GDPR) of 2016 and the law&amp;rsquo;s subsequent redaction of personally identifiable information (PII) from publicly queryable domain registrations has ended in the loss of easy wins when combating phishing, business email compromise (BEC), and other low-level cybercrime. The reason for this is that registration details, before redaction, often gave quick and simple ties to find large swaths of domain registrations tied to singular threat actor accounts.</description>
+    </item>
+    
+  </channel>
+</rss>

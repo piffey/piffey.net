@@ -69,5 +69,14 @@ A look at some of Garry Winogrand&amp;rsquo;s most famous photographs from an in
       <description>me Hello, I am Chad &amp;lsquo;Piffey&amp;rsquo; Anderson, a security researcher and photographer living and working in Seattle, Washington. Currently, I work at DomainTools on the research and development team. My cybersecurity work involves the analysis and creation of infrastructure data sets used in the distillation of data into threat intelligence for analysts and researchers around the world. I enjoy writing automation and tooling to further the success of security and research teams looking to analyze cybercriminal groups and nation state threat actors.</description>
     </item>
     
+    <item>
+      <title>on the eu proposal to force public domain registrations</title>
+      <link>https://piffey.net/on-cybersecurity/on-eu-proposal-to-force-public-domain-registrations/</link>
+      <pubDate>Tue, 13 Oct 2020 15:49:00 -0700</pubDate>
+      
+      <guid>https://piffey.net/on-cybersecurity/on-eu-proposal-to-force-public-domain-registrations/</guid>
+      <description>For anyone working in cybersecurity, there is no surprise when I say that the European Union&amp;rsquo;s General Data Protection Regulation (GDPR) of 2016 and the law&amp;rsquo;s subsequent redaction of personally identifiable information (PII) from publicly queryable domain registrations has ended in the loss of easy wins when combating phishing, business email compromise (BEC), and other low-level cybercrime. The reason for this is that registration details, before redaction, often gave quick and simple ties to find large swaths of domain registrations tied to singular threat actor accounts.</description>
+    </item>
+    
   </channel>
 </rss>
